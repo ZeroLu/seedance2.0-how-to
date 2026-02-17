@@ -8,6 +8,16 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     nav: [{ text: "Home", link: "/" }],
+    sidebar: [
+      {
+        text: "Guide",
+        items: [
+          { text: "Home", link: "/" },
+          { text: "How to Access", link: "/" },
+          { text: "How to Prompt", link: "/how-to-prompt" },
+        ],
+      },
+    ],
     outline: {
       level: [2, 3],
       label: "On this page",
