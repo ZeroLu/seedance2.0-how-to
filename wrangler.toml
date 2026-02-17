@@ -1,0 +1,3 @@
+name = "seedance2-0-how-to"
+compatibility_date = "2026-02-17"
+pages_build_output_dir = "docs/.vitepress/dist"

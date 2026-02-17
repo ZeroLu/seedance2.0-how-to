@@ -1,0 +1,14 @@
+{
+  "name": "seedance2.0-how-to",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:readme": "node scripts/sync-readme.mjs",
+    "docs:dev": "pnpm sync:readme && vitepress dev docs",
+    "docs:build": "pnpm sync:readme && vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
