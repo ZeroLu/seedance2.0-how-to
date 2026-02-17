@@ -61,6 +61,8 @@ jimeng screenshot:
     ```
     *Example: "Generate a video not an image, a cyberpunk cat walking in the rain."*
 <img width="522" height="420" alt="截屏2026-02-17 22 37 11" src="https://github.com/user-attachments/assets/4941f8e1-f2c7-4416-9bb6-db2e0ddf0bae" />
+
+
 You can download the video for further editing!
 <img width="640" height="460" alt="截屏2026-02-17 22 37 48" src="https://github.com/user-attachments/assets/74410d3e-0a2f-48d4-ac10-5c2a75a0a155" />
 
