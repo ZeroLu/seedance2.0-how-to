@@ -4,24 +4,24 @@
 
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 [![Model](https://img.shields.io/badge/Model-Seedance_2.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/Last_Updated-Feb_2026-orange)]()
+[![Last Updated](https://img.shields.io/badge/Last_Updated-Mar_2026-orange)]()
 
 Welcome to the **Seedance How-to** repository. This is a community-driven guide on **how to access Seedance 2.0** (ByteDance's Sora-level video generation model) and **how to use** it effectively from anywhere in the world.
 
-> **Note:** Seedance 2.0 is currently rolling out. Methods change frequently. This repo is updated daily.
+> **Update:** CyberBara already supports Seedance 2.0. For users outside China, it is currently the only reliable way to access Seedance 2.0. This repo is updated frequently as availability changes.
 
 ## 📋 Table of Contents
 - [How to Access Seedance 2.0](#-how-to-access-seedance-20)
   - [Method 1: Jimeng (Chinese Phone number & VPN Required)](/README.md#method-1-official-cn-route-jimeng)
   - [Method 2: Doubao (VPN Required)](/README.md#method-2-the-doubao-workaround-free--limited)
-  - [Method 3: The Global API Route (Cyberbara, after Feb 24th)](/README.md#method-3-the-global-api-route-cyberbara-recommended-after-feb-24)
+  - [Method 3: The Global Route (CyberBara, recommended)](/README.md#method-3-the-global-route-cyberbara-recommended)
 - [Current Availability Status](#-current-availability-status)
 
 ---
 
 ## 🚀 How to Access Seedance 2.0
 
-As of February 2026, there are three primary ways to access the model depending on your resources (Phone number, VPN location, etc.).
+As of March 2026, there are three primary ways to access the model depending on your resources (Phone number, VPN location, etc.).
 
 ### Method 1: Official CN Route (Jimeng)
 *   **Requirement:** +86 Phone Number, VPN (CN/Asia preferred), WeChat Pay (for credits).
@@ -66,13 +66,13 @@ jimeng screenshot:
 You can download the video for further editing!
 <img width="640" height="460" alt="截屏2026-02-17 22 37 48" src="https://github.com/user-attachments/assets/74410d3e-0a2f-48d4-ac10-5c2a75a0a155" />
 
-### Method 3: The Global API Route (Cyberbara)
-*Recommended after Feb 24, 2026. Best for Developers & International Users.*
+### Method 3: The Global Route (CyberBara)
+*Recommended for Developers & International Users.*
 
 **Details:**
-1.  ByteDance is scheduled to release the official API around **Feb 24, 2026**.
-2.  Cyberbara is one of the first official partners of ByteDance. And it will integrate Seedance 2.0 API immediately. Go to [cyberbara.com/seedance2.0](https://cyberbara.com/seedance2.0) and sign in to reserve a spot.
-3.  This will likely be the most stable method for users outside of China to access Seedance 2.0 without phone number restrictions.
+1.  CyberBara already supports Seedance 2.0.
+2.  For users outside China, CyberBara is currently the only reliable way to access Seedance 2.0.
+3.  Go to [cyberbara.com/seedance2.0](https://cyberbara.com/seedance2.0) and start generating immediately.
 
 ### Methods Not Working: BytePlus and Dreamnia
 
@@ -80,7 +80,7 @@ You can download the video for further editing!
 <img width="700" height="383" alt="byteplus" src="https://github.com/user-attachments/assets/c011a68e-227c-48d1-9eb6-eb65c35a79ea" />
 2. Dreamnia has not opened Seedance 2.0 access yet
 
-3. Beware of other scam websites claiming to have Seedance 2.0 API before Feb 24th. The offical API won't be released until Feb 24th!
+3. Beware of scam websites claiming to offer Seedance 2.0 access without proof. Always verify the provider and availability.
 
 ---
 
@@ -90,7 +90,7 @@ You can download the video for further editing!
 | :--- | :--- | :--- |
 | **Jimeng (CN)** | 🟢 Online | Requires +86 Number. |
 | **Doubao (HK)** | 🟡 Limited | Requires HK IP. |
-| **Cyberbara** | 🔵 Coming Soon | Launches post-Feb 24 API release. |
+| **Cyberbara** | 🟢 Online | Seedance 2.0 is live. |
 | **BytePlus** | 🔴 Closed | Access closed due to high traffic volume. |
 | **Dreamina (Intl)** | 🔴 Not Ready | Global CapCut version does not have 2.0 yet. |
 
