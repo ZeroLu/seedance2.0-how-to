@@ -8,8 +8,8 @@
 
 Welcome to the **Seedance How-to** repository. This is a community-driven guide on **how to access Seedance 2.0** (ByteDance's Sora-level video generation model) and **how to use** it effectively from anywhere in the world.
 
-### Sponsor1:  [Access Seedance 2.0 Now on Cyberbara!](https://cyberbara.com?utm_source=seedance-howto)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://cyberbara.com?utm_source=seedance-howto)
+### Sponsor1: [Seedance 2.0 Price Dropped 44% on Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=seedance-howto)
+[<img width="1200" alt="Seedance 2.0 Price Dropped 44% on Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=seedance-howto)
 
 
 ## 📋 Table of Contents
