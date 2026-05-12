@@ -5,6 +5,8 @@ All these methods do not work on public figures and celebrities. And you should 
 
 ---
 
+Hi fellow creators!
+
 If you’ve been experimenting with Seedance 2.0, you already know how frustrating the strict face detection algorithms can be. Trying to generate videos with specific faces often results in blocked prompts and error messages. 
 
 I am Zero Lu, a content creator who use Seedance 2.0 a lot!
@@ -142,7 +144,21 @@ Output:
 
 
 #### 2. The Face Split Method:
+
+This is a pretty weird method, but it works great! I am probably the first one on the internet who come up with this processing prompt!
+
 Using prompts to visually divide or grid the face, which confuses the facial recognition detector but still allows the AI to render the features.
+
+GPT Image 2 prompt:
+```
+Keep the facial features and hair of the input image intact, but create a deconstructed portrait collage, isolated facial features scattered randomly on a pure white background. Segmented rectangular cut-outs of eyes, nose, mouth, and hair. Surreal fragmented face puzzle, photorealistic, stark contrast.
+```
+
+Screenshot:
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ca259eb6-f418-402a-843d-9a9b5f0f8135" />
+
+Result image:
+<img width="500" alt="2c425c90-38e5-414c-aed6-ac932a0a48a4" src="https://github.com/user-attachments/assets/485b9f3c-5070-4ee0-87ee-c7414ad0d012" />
 
 
 #### 3. The Colored Pencil Method:
@@ -169,6 +185,7 @@ Reference the uploaded character design to generate an ultra-realistic live-acti
 ```
 
 #### 4. Grid overlay, Scenary overlay and X trick.
+You can also use grid, scenary or X mark to cover facial features, sometimes you can pass the face detection in this way.
 You can access all these tools for free in https://cyberbara.com/seedance-bypass-face-detection:
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/fe0522df-2784-47bc-a4d8-55335699eb5e" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5865aa76-e872-4a42-ab92-5cfae7e79daf" />
