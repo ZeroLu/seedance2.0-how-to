@@ -1,4 +1,4 @@
-# The Ultimate Guide to Bypassing Face Detection in Seedance 2.0
+# The Ultimate Guide to Use Real Face in Seedance 2.0 (May 2026 Update)
 
 **Disclaimer**
 All these methods do not work on public figures and celebrities. And you should use it ethcially. I do not have anything to do with it if you misuse it. This is for informational purpose only.
@@ -8,7 +8,7 @@ All these methods do not work on public figures and celebrities. And you should 
 If you’ve been experimenting with Seedance 2.0, you already know how frustrating the strict face detection algorithms can be. Trying to generate videos with specific faces often results in blocked prompts and error messages. 
 
 I am Zero Lu, a content creator who use Seedance 2.0 a lot!
-I’ve spent hours testing every "hack" and workaround on the internet so you don't have to. The good news? I’ve narrowed down everything that *actually* works, and they all fall into three distinct categories. 
+I’ve spent 48 hours testing every "hack" and workaround on the internet so you don't have to. The good news? I’ve narrowed down everything that *actually* works, and they all fall into three distinct categories. 
 
 Whether you want to play by the rules or push the limits of prompt engineering, here is the ultimate guide to getting around Seedance 2.0's face detection.
 
@@ -135,10 +135,10 @@ Strong cinematic feel, storytelling, and high overall consistency
 ```
 
 Screenshot:
-<img width="1376" height="854" alt="image" src="https://github.com/user-attachments/assets/602f64c0-5863-406c-bdac-5fa5b7c789fd" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/602f64c0-5863-406c-bdac-5fa5b7c789fd" />
 
 Output:
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/1cba1079-ce9a-4212-96d4-1f678bdcfd4a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1cba1079-ce9a-4212-96d4-1f678bdcfd4a" />
 
 
 #### 2. The Face Split Method:
@@ -159,8 +159,7 @@ Screenshot:
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/9aacb7e0-2575-4511-8525-387a801a47da" />
 
 Result:
-
-
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a0653e09-f62c-44bf-87c4-d08b9fa5449d" />
 
 2. Use the output image for Seedance 2.0, make sure to add the following text to your prompt to make sure that the video is realistic.
 
