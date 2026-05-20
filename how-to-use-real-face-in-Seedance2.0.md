@@ -40,6 +40,7 @@ https://github.com/user-attachments/assets/cc7a29ea-45f6-4052-9cc0-3fae0b76dcde
 3. Once scanned, the system registers your face as a verified asset, and you can simply @ your avatar to create a video.
 
 Here is a screen recording of the process:
+
 https://github.com/user-attachments/assets/fa390130-44ea-441a-bd35-6c60768450b9
 
 #### With the pre-built character library using XYQ:
