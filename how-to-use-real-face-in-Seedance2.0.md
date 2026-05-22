@@ -66,7 +66,7 @@ Did you know ByteDance has given special permissions to a select few third-party
 **Cyberbara** is one of these authorized partners, and their tool is incredibly smooth. 
 
 Here is my workflow:
-1. Head over to [Cyberbara.com](https://cyberbara.com) and click on **Canvas** in the header. *(Using the canvas is optional, but I find it to be an incredibly easy tool to use when creating complex video projects).*
+1. Head over to [Cyberbara.com](https://cyberbara.com?utm_source=bypass-seedance) and click on **Canvas** in the header. *(Using the canvas is optional, but I find it to be an incredibly easy tool to use when creating complex video projects).*
 
 <img width="500" alt="20260512091157" src="https://github.com/user-attachments/assets/262bc0f9-efdf-41f5-ac84-fba0fc27a877" />
 
@@ -96,7 +96,7 @@ And here is the sample image if you want to try it out yourself👇
 
 <img width="300" alt="jake-nackos-IF9TK5Uy-KI-unsplash" src="https://github.com/user-attachments/assets/6d0266c9-e8a4-4aa9-85ad-7691934f2e77" />
 
-That’s it! Because Cyberbara is a whitelisted partner, you get your video immediately with no face-detection blocks and absolutely no pre-processing required. 
+That’s it! Because [Cyberbara](https://cyberbara.com?utm_source=bypass-seedance) is a whitelisted partner, you get your video immediately with no face-detection blocks and absolutely no pre-processing required. 
 
 ### Method 3: The "Jailbreak" Route (Use at Your Own Risk)
 If you are using other Seedance 2.0 video tools and don't have access to the first two methods, you can try to "jailbreak" the algorithm using prompt engineering. 
@@ -195,7 +195,7 @@ Reference the uploaded character design to generate an ultra-realistic live-acti
 #### 4. Grid Overlay, Scenery Overlay, and the X-Mark Trick
 You can also use a grid, scenery, or an X-mark to cover facial features; sometimes you can bypass face detection this way.
 
-You can access all these tools for free at [Cyberbara](https://cyberbara.com/seedance-bypass-face-detection):
+You can access all these tools for free at [Cyberbara](https://cyberbara.com/seedance-bypass-face-detection?utm_source=bypass-seedance):
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/fe0522df-2784-47bc-a4d8-55335699eb5e" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5865aa76-e872-4a42-ab92-5cfae7e79daf" />
