@@ -8,6 +8,11 @@
 
 Welcome to the **Seedance How-to** repository. This is a community-driven guide on **how to access Seedance 2.0** (ByteDance's Sora-level video generation model) and **how to use** it effectively from anywhere in the world.
 
+Start with the guide that matches what you want to do:
+
+- **Need access to Seedance 2.0?** This README covers the current access routes, availability, and platform requirements.
+- **Need to generate videos with a real human face?** Go straight to [How to Use Real Faces in Seedance 2.0](https://github.com/ZeroLu/seedance2.0-how-to/blob/main/how-to-use-real-face-in-Seedance2.0.md).
+
 ### Sponsor1
 [![Cyberbara Ad](./assets/cyberbara-real-face-upload-banner.webp)](https://cyberbara.com/seedance2.0?utm_source=seedance-howto)
 
@@ -16,11 +21,23 @@ Welcome to the **Seedance How-to** repository. This is a community-driven guide 
 
 
 ## 📋 Table of Contents
+- [Start Here](#-start-here)
 - [How to Access Seedance 2.0](#-how-to-access-seedance-20)
   - [Method 1: Jimeng (Chinese Phone number & VPN Required)](/README.md#method-1-official-cn-route-jimeng)
   - [Method 2: Doubao (VPN Required)](/README.md#method-2-the-doubao-workaround-free--limited)
   - [Method 3: The Global Route (CyberBara, recommended)](/README.md#method-3-the-global-route-cyberbara-recommended)
 - [Current Availability Status](#-current-availability-status)
+
+---
+
+## 📚 Start Here
+
+| Goal | Guide | Covers |
+| :--- | :--- | :--- |
+| Access Seedance 2.0 from anywhere | **This README** | Official and workaround access paths, platform status, and region requirements |
+| Use real human faces in Seedance 2.0 | [How to Use Real Faces in Seedance 2.0](https://github.com/ZeroLu/seedance2.0-how-to/blob/main/how-to-use-real-face-in-Seedance2.0.md) | Official avatar workflows, global partner route, and prompt-based face handling tips |
+
+If portrait workflows are your main use case, start with the real-face guide first and come back here when you need the broader access landscape.
 
 ---
 
