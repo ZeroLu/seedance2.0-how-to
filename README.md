@@ -122,5 +122,7 @@ You can download the video for further editing!
 
 Found a new way to access **Seedance 2.0**? Please submit a Pull Request or open an Issue!
 
+You can also view this article on cyberbara blog: https://cyberbara.com/blog/how-to-access-seedance-2.0-outside-china
+
 ## 📄 Disclaimer
 This repository is for educational purposes only. We are not affiliated with ByteDance, Jimeng, or CapCut.

@@ -204,3 +204,5 @@ You can access all these tools for free at [Cyberbara](https://cyberbara.com/see
 ---
 
 If you want to learn more about Seedance 2.0, feel free to join my [newsletter](https://zerolu.substack.com/) or follow me on [X (Twitter)](https://x.com/zerolu_eth).
+
+You can also view this article on cyberbara blog: https://cyberbara.com/blog/how-to-use-real-faces-in-seedance-2-0
