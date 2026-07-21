@@ -104,11 +104,19 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 1. 三勇士决战熔岩巨兽
 
-这是一个非常典型的“参考视频只提供运动轨迹，最终画面完全重渲”的案例。它强的地方在于，连攻击弧线、受力点、镜头切换和特效重渲规则都写清楚了。
+一句话评论：这是一个非常典型的“参考视频只提供运动轨迹，最终画面完全重渲”的案例，它强的地方在于，连攻击弧线、受力点、镜头切换和特效重渲规则都写清楚了。
+
+最终结果 GIF：
+
+![三勇士决战熔岩巨兽 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/three-warriors-lava-behemoth-csdn.gif)
+
+参考图：
 
 ![三勇士参考图](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/seedance25-warriors-reference.jpg)
 
-![](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/three-warriors-lava-behemoth-csdn.gif)
+参考视频：[参考视频 1](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-01-video-1.mp4)
+
+完整提示词：
 
 ```text
 <<<video_1_1>>> 仅提供三名战士与巨兽的逐帧连续飞行抛物线轨迹、大幅度攻击弧线、受力接触点、动作时机与九镜头硬切运镜，其 lowpoly 体块与占位特效只作动效参考、不进入画面；<<<image_1_2>>> 锁定原创重甲战士与岩石熔岩巨兽的外形、材质与配色并且提供崩塌石殿废墟的建筑结构与光影基调。
@@ -123,7 +131,21 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 2. 绝境突围：五机大战母舰
 
-这条是典型的太空战争长分镜 prompt。你会发现它不是只说“打得很燃”，而是连战机尺寸、航道分层、牺牲节点和运镜关系都给了。
+一句话评论：这条是典型的太空战争长分镜 prompt，你会发现它不是只说“打得很燃”，而是连战机尺寸、航道分层、牺牲节点和运镜关系都给了。
+
+最终结果 GIF：
+
+![五机大战母舰 GIF](../assets/articles/awesome-seedance-25/gifs/space-battle-breakout.gif)
+
+参考图：
+
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-02-image-1.webp" width="32%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-02-image-2.webp" width="32%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-02-image-3.webp" width="32%" />
+
+参考视频：[参考视频 1](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-02-video-1.mp4)
+
+完整提示词：
 
 ```text
 <<<video_1_1>>> 仅提供五机与母舰的逐帧连续轨迹、分道不重叠航道、咬尾与坠落曲线、受力时机及拉远运镜参考，其体块与占位特效不进画面；<<<image_1_2>>> 锁定隼形我方三机、<<<image_2_3>>>猛禽形敌方两机、<<<image_3_4>>>提供长条楔形母舰的外形材质配色、星云深空环境与光影基调。
@@ -138,7 +160,20 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 3. 一朵花的环球传递
 
-这是我很喜欢的一条，因为它本质上是在做“视觉主线”。它用同一朵花把多个国家、多个语言、多个情绪串起来。
+一句话评论：这是我很喜欢的一条，因为它本质上是在做“视觉主线”，它用同一朵花把多个国家、多个语言、多个情绪串起来。
+
+最终结果 GIF：
+
+![一朵花的环球传递 GIF](../assets/articles/awesome-seedance-25/gifs/flower-around-the-world.gif)
+
+参考图：
+
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-1.webp" width="24%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-3.webp" width="24%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-5.webp" width="24%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-9.webp" width="24%" />
+
+完整提示词：
 
 ```text
 真人实拍风格，快速剪辑，电影感，4K，24fps，温暖自然光，真实人物表演，自然口型同步，无字幕。以一朵鲜花的传递作为整支视频的核心视觉线索，花从一个国家快速传到下一个国家，串联全球不同地域与人群。每到一个场景，都有一个人物接过花、露出真诚微笑，并用当地语言说 “谢谢”。整体节奏轻快流畅，镜头富有动感，强调真实街头 / 生活气息、跨文化温暖连接、人与人之间的善意传递。转场方式：以前一个人物把花递出画面，下一镜头由另一个人物在新场景中接住花
@@ -150,7 +185,23 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 4. 一镜穿越四季昼夜
 
-这条很适合研究长镜头 prompt 到底怎么写。它最聪明的地方，是把季节变化、时间变化和人物情绪变化绑在一条跟拍动线上。
+一句话评论：这条很适合研究长镜头 prompt 到底怎么写，它最聪明的地方，是把季节变化、时间变化和人物情绪变化绑在一条跟拍动线上。
+
+最终结果 GIF：
+
+![一镜穿越四季昼夜 GIF](../assets/articles/awesome-seedance-25/gifs/one-shot-seasons-daynight.gif)
+
+参考图：
+
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-1.webp" width="19%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-4.webp" width="19%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-7.webp" width="19%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-10.webp" width="19%" />
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-13.webp" width="19%" />
+
+参考视频：[参考视频 1](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-12-video-1.mp4) ｜ [参考视频 2](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-12-video-2.mp4) ｜ [参考视频 3](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-12-video-3.mp4)
+
+完整提示词：
 
 ```text
 核心指令： 全程 26 秒一镜到底（One-Shot）叙事短片，稳定跟拍，参考<<<video_1_1>>>与平滑环绕运镜，参考<<<video_2_2>>>交织。平滑行进感。镜头内实现昼夜交替与四季流转。主角是一位欧洲女人<<<image_1_3>>>，置身充满烟火气的人海，凸显极致的孤独感与电影摄影质感。
@@ -170,9 +221,17 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 5. 胶囊咖啡机安装使用教程
 
-这条很重要，因为它说明 Seedance 2.5 不只是做电影和奇观，它也能做结构清楚、步骤明确的产品教程。
+一句话评论：这条很重要，因为它说明 Seedance 2.5 不只是做电影和奇观，它也能做结构清楚、步骤明确的产品教程。
+
+最终结果 GIF：
+
+![胶囊咖啡机安装使用教程 GIF](../assets/articles/awesome-seedance-25/gifs/capsule-coffee-tutorial.gif)
+
+参考图：
 
 ![胶囊咖啡机参考图](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/seedance25-coffee-reference.jpg)
+
+完整提示词：
 
 ```text
 一段 30 秒的胶囊咖啡机安装使用教程视频。
@@ -201,7 +260,20 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 6. 水果饼干风味秀
 
-这条属于典型的快节奏商业广告。它没有复杂叙事，但节奏、构图、质感和高潮节点都很完整。
+一句话评论：这条属于典型的快节奏商业广告，它没有复杂叙事，但节奏、构图、质感和高潮节点都很完整。
+
+最终结果 GIF：
+
+![水果饼干风味秀 GIF](../assets/articles/awesome-seedance-25/gifs/fruit-cookie-flavor-show.gif)
+
+参考图：
+
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-13-image-1.webp" width="32%" />
+
+参考视频：[参考视频 1](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-13-video-1.mp4) ｜ [参考视频 2](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-13-video-2.mp4) ｜ [参考视频 3](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-13-video-3.mp4)  
+[参考视频 4](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-13-video-4.mp4) ｜ [参考视频 5](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-13-video-5.mp4) ｜ [参考视频 6](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-13-video-6.mp4)
+
+完整提示词：
 
 ```text
 明亮多彩的广告片风格，果味饼干为主角，包含草莓、苹果、葡萄、橙子四种口味，草莓味参考<<<image_1_1>>>，饼干与对应水果以强秩序感的几何阵列排布，整体画面干净、高级、节奏强。开场水果快速建立视觉聚焦，参考<<<video_1_2>>>的构图，音乐重拍切入。随后不同口味饼干整齐排列，切特写，参考<<<video_2_3>>>的动态和运镜。高潮段一块饼干被折断，瞬间进入慢动作，果味夹心爆开，碎屑飞溅，果汁感与颗粒冲击被放大展示，参考<<<video_3_4>>>的冲击感。横向阵列，形成节奏抛物感，参考<<<video_4_5>>>的运动，突出秩序美感与产品丰富度。随后迅速回到快节奏剪辑。结尾英文文字 One bite of crispness, a heart full of delight 快速分词切换入画，配合强节奏文字运动与产品定格，参考<<<video_5_6>>>，最终品牌感收束，饼干和水果向四周发散，参考<<<video_6_7>>>画面充满年轻、活力、好吃、想分享的广告氛围。
@@ -211,9 +283,17 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 7. 穿行六间情绪房
 
-这是一个非常强的概念片案例。它一边做空间连续，一边做情绪切换，而且每个房间都不是抽象情绪，而是具体视觉主题。
+一句话评论：这是一个非常强的概念片案例，它一边做空间连续，一边做情绪切换，而且每个房间都不是抽象情绪，而是具体视觉主题。
+
+最终结果 GIF：
+
+![穿行六间情绪房 GIF](../assets/articles/awesome-seedance-25/gifs/six-emotion-rooms.gif)
+
+参考图：
 
 ![六间情绪房参考图](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/seedance25-emotion-room-reference.jpg)
+
+完整提示词：
 
 ```text
 一镜到底，镜头平稳跟随一个穿黑色大衣的人（参考<<<image_1_1>>>）从左向右穿过六个相连的不同色调、不同氛围的房间。每个房间结构相同：白墙、人字拼浅色木地板、法式双开落地窗、白纱帘，参考<<<image_2_2>>>但窗外风景和室内氛围完全不同。主角全程匀速走动，穿过墙壁上敞开的每一扇门。
@@ -230,7 +310,17 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 8. 海边多语种说唱
 
-很多人以为音乐视频 prompt 就是“跟着节奏剪一下”。这条会告诉你，真正强的音乐视频 prompt 其实把口型、节拍、景别反差和硬切逻辑都写了。
+一句话评论：很多人以为音乐视频 prompt 就是“跟着节奏剪一下”，这条会告诉你，真正强的音乐视频 prompt 其实把口型、节拍、景别反差和硬切逻辑都写了。
+
+最终结果 GIF：
+
+![海边多语种说唱 GIF](../assets/articles/awesome-seedance-25/gifs/multilingual-beach-rap.gif)
+
+参考图：
+
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-20-image-1.webp" width="40%" />
+
+完整提示词：
 
 ```text
 电影级 hip-hop / 说唱音乐视频，真实照片级质感，高端调性，海边场景。以<<<image_1_1>>>构建画面：一支乐队在金色沙滩、海浪拍岸的岸边表演 —— 一名主唱手握麦克风、麦架立于湿沙上激情演唱，一名吉他手立于画面左侧，一名吉他手立于画面右侧，一名鼓手坐在后方的架子鼓后敲击；辽阔的海岸线在身后展开，滚滚海浪层层涌来，巨大而温暖的黄金时刻夕阳斜掠过沙滩、在水面上粼粼闪耀，空气中漂浮着海雾与咸湿水汽。
@@ -252,9 +342,17 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 9. 水晶球卡点无缝转场
 
-这条是很典型的“社媒传播型 prompt”。它的设计思路很清楚：给一个稳定主体，让所有变化都发生在背景里。
+一句话评论：这条是很典型的“社媒传播型 prompt”，它的设计思路很清楚：给一个稳定主体，让所有变化都发生在背景里。
 
-![](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/crystal-ball-transition-csdn.gif)
+最终结果 GIF：
+
+![水晶球卡点无缝转场 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/crystal-ball-transition-csdn.gif)
+
+参考图：
+
+<img src="../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-05-image-1.webp" width="40%" />
+
+完整提示词：
 
 ```text
 一部配合动感电子节拍的快节奏、电影级无缝转场（Match-cut）短片。画面正中始终固定一颗完美无瑕的水晶球，内部刻有发光的‘seedance’标志。水晶球保持极致对焦，随着强劲的音乐鼓点，背景高速无缝切换：场景1： 微距特写，电影质感的水花在水晶球周围飞溅，折射复杂光影。场景2： 晨间复古咖啡馆，水晶球置于原木桌面，背景是升腾的咖啡热气与窗外模糊的通勤人流。场景3： 傍晚黄金时刻，滑板青年单手抛握水晶球，背景为极速倒退的街景与绝美的夕阳逆光。场景4： 狂热音乐节现场，人手高举水晶球，折射出背景绚丽的舞台激光。场景5： 热闹的家庭派对餐桌，水晶球静置中央，背景是欢聚干杯、拿取食物的模糊人影。场景6： 昏暗电影院中，双手捧着水晶球，巨大银幕的微光在其表面流转。场景7： 水晶球置于强烈震动的音响振膜上，随音乐高潮无缝切换至旋转的DJ打碟机中央。场景8： 户外露营之夜，背景化作温暖的篝火与摇曳的灯串光斑（Bokeh）。抛起落幕： 随音乐最终重音，水晶球被高高抛出画面上方；瞬间切至纯黑背景，画面正中浮现极简的黑底白字“seedance”，参考<<<image_1_1>>>
@@ -265,9 +363,15 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=awesome_seedance25_csd
 
 ### 10. 清除草原无人机
 
-最后放一条视频编辑案例。因为很多人会低估这类 prompt，以为“删掉某个东西”很简单。其实真正难的是，把不能变的部分说清楚。
+一句话评论：最后放一条视频编辑案例，因为很多人会低估这类 prompt，以为“删掉某个东西”很简单，其实真正难的是，把不能变的部分说清楚。
+
+最终结果 GIF：
 
 <img src="https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/safari-drone-removal-csdn.gif" alt="清除草原无人机 GIF" />
+
+参考视频：[参考视频 1](../assets/articles/awesome-seedance-25/refs/videos/tpl-sd25-09-video-1.mp4)
+
+完整提示词：
 
 ```text
 删除<<<video_1_1>>>画面中的无人机以及左下角前景轨道 / 车体边缘，对删除区域进行自然补全。
