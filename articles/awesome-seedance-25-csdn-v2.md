@@ -4,7 +4,7 @@ title: 全网最全！Seedance 2.5神级提示词库，免费查阅，一键复�
 
 # 全网最全！Seedance 2.5神级提示词库，免费查阅，一键复制！
 
-![标题图](../assets/articles/awesome-seedance-25/awesome-seedance-25-cover-cn.webp)
+![标题图](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/awesome-seedance-25-cover-cn.webp)
 
 我是那个已经有点沉迷 AI 视频的 Zero 君。
 
@@ -34,19 +34,19 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![三勇士决战熔岩巨兽 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/three-warriors-lava-behemoth-csdn.gif)
+![三勇士决战熔岩巨兽 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/three-warriors-lava-behemoth-csdn.gif)
 
 参考图：
 
 | 参考图 1 |
 | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-01-image-1.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-01-image-1.webp) |
 
 参考视频 GIF：
 
 | 参考视频 1 |
 | --- |
-| ![参考视频 1](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-01-video-1.gif) |
+| ![参考视频 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-01-video-1.gif) |
 
 完整提示词：
 
@@ -67,19 +67,19 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![五机大战母舰 GIF](../assets/articles/awesome-seedance-25/gifs/space-battle-breakout.gif)
+![五机大战母舰 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/space-battle-breakout.gif)
 
 参考图：
 
 | 参考图 1 | 参考图 2 | 参考图 3 |
 | --- | --- | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-02-image-1.webp) | ![参考图 2](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-02-image-2.webp) | ![参考图 3](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-02-image-3.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-02-image-1.webp) | ![参考图 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-02-image-2.webp) | ![参考图 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-02-image-3.webp) |
 
 参考视频 GIF：
 
 | 参考视频 1 |
 | --- |
-| ![参考视频 1](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-02-video-1.gif) |
+| ![参考视频 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-02-video-1.gif) |
 
 完整提示词：
 
@@ -100,16 +100,16 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![一朵花的环球传递 GIF](../assets/articles/awesome-seedance-25/gifs/flower-around-the-world.gif)
+![一朵花的环球传递 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/flower-around-the-world.gif)
 
 参考图：
 
 | 参考图 1 | 参考图 2 | 参考图 3 | 参考图 4 | 参考图 5 | 参考图 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-1.webp) | ![参考图 2](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-2.webp) | ![参考图 3](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-3.webp) | ![参考图 4](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-4.webp) | ![参考图 5](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-5.webp) | ![参考图 6](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-6.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-1.webp) | ![参考图 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-2.webp) | ![参考图 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-3.webp) | ![参考图 4](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-4.webp) | ![参考图 5](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-5.webp) | ![参考图 6](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-6.webp) |
 | 参考图 7 | 参考图 8 | 参考图 9 |
 | --- | --- | --- |
-| ![参考图 7](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-7.webp) | ![参考图 8](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-8.webp) | ![参考图 9](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-04-image-9.webp) |
+| ![参考图 7](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-7.webp) | ![参考图 8](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-8.webp) | ![参考图 9](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-04-image-9.webp) |
 
 完整提示词：
 
@@ -127,25 +127,25 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![一镜穿越四季昼夜 GIF](../assets/articles/awesome-seedance-25/gifs/one-shot-seasons-daynight.gif)
+![一镜穿越四季昼夜 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/one-shot-seasons-daynight.gif)
 
 参考图：
 
 | 参考图 1 | 参考图 2 | 参考图 3 | 参考图 4 | 参考图 5 | 参考图 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-1.webp) | ![参考图 2](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-2.webp) | ![参考图 3](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-3.webp) | ![参考图 4](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-4.webp) | ![参考图 5](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-5.webp) | ![参考图 6](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-6.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-1.webp) | ![参考图 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-2.webp) | ![参考图 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-3.webp) | ![参考图 4](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-4.webp) | ![参考图 5](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-5.webp) | ![参考图 6](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-6.webp) |
 | 参考图 7 | 参考图 8 | 参考图 9 | 参考图 10 | 参考图 11 | 参考图 12 |
 | --- | --- | --- | --- | --- | --- |
-| ![参考图 7](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-7.webp) | ![参考图 8](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-8.webp) | ![参考图 9](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-9.webp) | ![参考图 10](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-10.webp) | ![参考图 11](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-11.webp) | ![参考图 12](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-12.webp) |
+| ![参考图 7](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-7.webp) | ![参考图 8](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-8.webp) | ![参考图 9](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-9.webp) | ![参考图 10](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-10.webp) | ![参考图 11](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-11.webp) | ![参考图 12](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-12.webp) |
 | 参考图 13 |
 | --- |
-| ![参考图 13](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-12-image-13.webp) |
+| ![参考图 13](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-12-image-13.webp) |
 
 参考视频 GIF：
 
 | 参考视频 1 | 参考视频 2 | 参考视频 3 |
 | --- | --- | --- |
-| ![参考视频 1](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-12-video-1.gif) | ![参考视频 2](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-12-video-2.gif) | ![参考视频 3](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-12-video-3.gif) |
+| ![参考视频 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-12-video-1.gif) | ![参考视频 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-12-video-2.gif) | ![参考视频 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-12-video-3.gif) |
 
 完整提示词：
 
@@ -171,13 +171,13 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![胶囊咖啡机安装使用教程 GIF](../assets/articles/awesome-seedance-25/gifs/capsule-coffee-tutorial.gif)
+![胶囊咖啡机安装使用教程 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/capsule-coffee-tutorial.gif)
 
 参考图：
 
 | 参考图 1 | 参考图 2 | 参考图 3 | 参考图 4 | 参考图 5 | 参考图 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-10-image-1.webp) | ![参考图 2](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-10-image-2.webp) | ![参考图 3](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-10-image-3.webp) | ![参考图 4](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-10-image-4.webp) | ![参考图 5](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-10-image-5.webp) | ![参考图 6](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-10-image-6.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-10-image-1.webp) | ![参考图 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-10-image-2.webp) | ![参考图 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-10-image-3.webp) | ![参考图 4](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-10-image-4.webp) | ![参考图 5](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-10-image-5.webp) | ![参考图 6](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-10-image-6.webp) |
 
 完整提示词：
 
@@ -212,19 +212,19 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![水果饼干风味秀 GIF](../assets/articles/awesome-seedance-25/gifs/fruit-cookie-flavor-show.gif)
+![水果饼干风味秀 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/fruit-cookie-flavor-show.gif)
 
 参考图：
 
 | 参考图 1 |
 | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-13-image-1.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-13-image-1.webp) |
 
 参考视频 GIF：
 
 | 参考视频 1 | 参考视频 2 | 参考视频 3 | 参考视频 4 | 参考视频 5 | 参考视频 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![参考视频 1](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-13-video-1.gif) | ![参考视频 2](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-13-video-2.gif) | ![参考视频 3](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-13-video-3.gif) | ![参考视频 4](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-13-video-4.gif) | ![参考视频 5](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-13-video-5.gif) | ![参考视频 6](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-13-video-6.gif) |
+| ![参考视频 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-13-video-1.gif) | ![参考视频 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-13-video-2.gif) | ![参考视频 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-13-video-3.gif) | ![参考视频 4](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-13-video-4.gif) | ![参考视频 5](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-13-video-5.gif) | ![参考视频 6](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-13-video-6.gif) |
 
 完整提示词：
 
@@ -240,16 +240,16 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![穿行六间情绪房 GIF](../assets/articles/awesome-seedance-25/gifs/six-emotion-rooms.gif)
+![穿行六间情绪房 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/six-emotion-rooms.gif)
 
 参考图：
 
 | 参考图 1 | 参考图 2 | 参考图 3 | 参考图 4 | 参考图 5 | 参考图 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-1.webp) | ![参考图 2](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-2.webp) | ![参考图 3](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-3.webp) | ![参考图 4](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-4.webp) | ![参考图 5](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-5.webp) | ![参考图 6](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-6.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-1.webp) | ![参考图 2](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-2.webp) | ![参考图 3](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-3.webp) | ![参考图 4](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-4.webp) | ![参考图 5](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-5.webp) | ![参考图 6](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-6.webp) |
 | 参考图 7 | 参考图 8 |
 | --- | --- |
-| ![参考图 7](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-7.webp) | ![参考图 8](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-16-image-8.webp) |
+| ![参考图 7](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-7.webp) | ![参考图 8](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-16-image-8.webp) |
 
 完整提示词：
 
@@ -272,13 +272,13 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![海边多语种说唱 GIF](../assets/articles/awesome-seedance-25/gifs/multilingual-beach-rap.gif)
+![海边多语种说唱 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/multilingual-beach-rap.gif)
 
 参考图：
 
 | 参考图 1 |
 | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-20-image-1.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-20-image-1.webp) |
 
 完整提示词：
 
@@ -306,13 +306,13 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-![水晶球卡点无缝转场 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/crystal-ball-transition-csdn.gif)
+![水晶球卡点无缝转场 GIF](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/crystal-ball-transition-csdn.gif)
 
 参考图：
 
 | 参考图 1 |
 | --- |
-| ![参考图 1](../assets/articles/awesome-seedance-25/refs/images/tpl-sd25-05-image-1.webp) |
+| ![参考图 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/images/tpl-sd25-05-image-1.webp) |
 
 完整提示词：
 
@@ -329,13 +329,13 @@ https://github.com/ZeroLu/awesome-seedance-2.5?utm_source=seedance25_prompt_libr
 
 最终结果 GIF：
 
-<img src="https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_csdn_20260717/safari-drone-removal-csdn.gif" alt="清除草原无人机 GIF" />
+<img src="https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/gifs/safari-drone-removal-csdn.gif" alt="清除草原无人机 GIF" />
 
 参考视频 GIF：
 
 | 参考视频 1 |
 | --- |
-| ![参考视频 1](../assets/articles/awesome-seedance-25/refs/gifs/tpl-sd25-09-video-1.gif) |
+| ![参考视频 1](https://static.nanobananaproprompts.com/article_upload/awesome-seedance-25_20260721/refs/gifs/tpl-sd25-09-video-1.gif) |
 
 完整提示词：
 
